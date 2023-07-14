@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 une partie de code source est branche master
-=======
+
 branch_examen est le branch de code source
->>>>>>> branch_exam
+
